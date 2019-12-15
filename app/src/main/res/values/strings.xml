@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Submission_2</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv">TV Shows</string>
+    <string name="title">title</string>
+    <string name="decription">decription</string>
+    <string name="change_language_settings">change language settings</string>
+
+    <string-array name="data_name_movies">
+        <item>Avengers: Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>The Old Man &amp; the Gun</item>
+        <item>High Strung Free Dance</item>
+        <item>Black Panther</item>
+        <item>Deadpool 2</item>
+        <item>Aquaman</item>
+        <item>Bumblebee</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description_movies">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>The true story of Forrest Tucker, from his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public. Wrapped up in the pursuit are a detective, who becomes captivated with Forrest’s commitment to his craft, and a woman, who loves him in spite of his chosen profession.</item>
+        <item>Zander Raines, a dazzling and tempestuous young choreographer, gives the break of a lifetime to two hopeful artists when he casts a stunning contemporary dancer, Barlow, and innovative pianist, Charlie, in New York’s most-anticipated new Broadway show: Free Dance. But the move throws off the show’s delicate creative balance when Charlie falls hard for Barlow while Zander embraces her as his muse.</item>
+        <item>King TChalla returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his countrys new leader. However, TChalla soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, TChalla assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan special forces) and an American secret agent, to prevent Wakanda from being dragged into a world war.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+    <array name="data_photo_movies">
+        <item>@drawable/avenger_infinity</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/oldman</item>
+        <item>@drawable/high_strung</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/aquaman</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/venom</item>
+    </array>
+
+    <string-array name="data_name_tv">
+        <item>The Mandalorian</item>
+        <item>Rick and Morty</item>
+        <item>Arrow</item>
+        <item>4 Blocks</item>
+        <item>His Dark Materials</item>
+        <item>The Simpson</item>
+        <item>The Flash</item>
+        <item>Supernatural</item>
+        <item>Fear the walking dead</item>
+        <item>Greys Anatomy</item>
+    </string-array>
+
+    <string-array name="data_description_tv">
+        <item>Set after the fall of the Empire and before the emergence of the First Order, we follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.</item>
+        <item>Rick is a mentallyunbalanced but scientificallygifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Mortys already unstable family life, these events cause Morty much distress at home and school.</item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>Based in Neukolln, Berlin Toni manages the daily business of dealing with the Arabic gangs and ends up wanting to leave his old life behind for his family, but as expected, its never that simple.</item>
+        <item>Lyra is an orphan who lives in a parallel universe in which science, theology and magic are entwined. Lyras search for a kidnapped friend uncovers a sinister plot involving stolen children, and turns into a quest to understand a mysterious phenomenon called Dust. She is later joined on her journey by Will, a boy who possesses a knife that can cut windows between worlds. As Lyra learns the truth about her parents and her prophesied destiny, the two young people are caught up in a war against celestial powers that ranges across many worlds.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only metahuman who was created in the wake of the accelerator explosion and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become...The Flash.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their 67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>This spinoff set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.</item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattles Grey Sloan Memorial Hospital.</item>
+    </string-array>
+
+    <array name="data_photo_tv">
+        <item>@drawable/mandalorian</item>
+        <item>@drawable/rick</item>
+        <item>@drawable/arrow</item>
+        <item>@drawable/blocks</item>
+        <item>@drawable/hisdark</item>
+        <item>@drawable/simpson</item>
+        <item>@drawable/flash</item>
+        <item>@drawable/supernatural</item>
+        <item>@drawable/walkingdead</item>
+        <item>@drawable/anatomy</item>
+    </array>
+</resources>

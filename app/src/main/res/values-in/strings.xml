@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission_2</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tv">Acara TV</string>
+    <string name="title">judul</string>
+    <string name="decription">deskripsi</string>
+    <string name="change_language_settings">ubah pengaturan bahasa</string>
+
+    <string-array name="data_name_movies">
+        <item>Avengers: Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>The Old Man &amp; the Gun</item>
+        <item>High Strung Free Dance</item>
+        <item>Black Panther</item>
+        <item>Deadpool 2</item>
+        <item>Aquaman</item>
+        <item>Bumblebee</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description_movies">
+        <item>Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah menyebabkan hingga saat ini nasib Bumi dan keberadaannya tidak pernah lebih tidak pasti. </item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Kisah nyata Forrest Tucker, dari pelariannya yang berani dari San Quentin pada usia 70 tahun ke serangkaian perampokan yang belum pernah terjadi sebelumnya yang membingungkan pihak berwenang dan memikat masyarakat. Terlibat dalam pengejaran adalah seorang detektif, yang menjadi terpikat dengan komitmen Forrest terhadap keahliannya, dan seorang wanita, yang mencintainya terlepas dari profesi yang dipilihnya.</item>
+        <item>Zander Raines, koreografer muda yang menyilaukan dan menggelora, memberikan kesempatan seumur hidup bagi dua seniman penuh harapan ketika ia berperan sebagai penari kontemporer yang memukau, Barlow, dan pianis inovatif, Charlie, dalam pertunjukan Broadway baru di New York yang paling dinanti-nantikan: Gratis Menari. Tapi langkah itu membuang keseimbangan kreatif pertunjukan itu ketika Charlie jatuh cinta pada Barlow sementara Zander memeluknya sebagai inspirasi. </item>
+        <item>Raja TChalla pulang dari Amerika ke negara Afrika Wakanda yang tertutup dan berteknologi maju untuk melayani sebagai pemimpin baru negaranya. Namun, TChalla segera menemukan bahwa ia ditantang untuk naik takhta oleh faksi di negaranya sendiri maupun di luar. Menggunakan kekuatan yang diperuntukkan bagi raja-raja Wakandan, TChalla mengasumsikan mantel Black Panther untuk bergabung dengan pacar Nakia, ibu-ratu, saudara perempuan-anak kandungnya, anggota Dora Milaje (pasukan khusus Wakandan) dan agen rahasia Amerika, untuk mencegah Wakanda dari terseret ke dalam perang dunia.</item>
+        <item>Deadpool tentara bayaran Wisecracking bertarung melawan Cable jahat dan kuat dan orang jahat lainnya untuk menyelamatkan kehidupan anak laki-laki.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, lelaki setengah manusia Orms, setengah lelaki Atlantis dan pewaris sejati takhta. </item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie membangkitkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Wartawan investigasi Eddie Brock mencoba kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+
+    </string-array>
+
+    <array name="data_photo_movies">
+        <item>@drawable/avenger_infinity</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/oldman</item>
+        <item>@drawable/high_strung</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/aquaman</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/venom</item>
+    </array>
+
+    <string-array name="data_name_tv">
+        <item>The Mandalorian</item>
+        <item>Rick and Morty</item>
+        <item>Arrow</item>
+        <item>4 Blocks</item>
+        <item>His Dark Materials</item>
+        <item>The Simpson</item>
+        <item>The Flash</item>
+        <item>Supernatural</item>
+        <item>Fear the walking dead</item>
+        <item>Greys Anatomy</item>
+    </string-array>
+
+    <string-array name="data_description_tv">
+        <item>Ditetapkan setelah jatuhnya Kekaisaran dan sebelum munculnya Orde Pertama, kita mengikuti kerja keras seorang penembak jitu di bagian luar galaksi yang jauh dari otoritas Republik Baru.</item>
+        <item>Rick adalah seorang lelaki tua yang tidak seimbang secara mental tetapi diilhami secara ilmiah yang baru-baru ini terhubung kembali dengan keluarganya. Dia menghabiskan sebagian besar waktunya dengan melibatkan cucunya yang muda, Morty, dalam petualangan berbahaya dan aneh di luar angkasa dan alam semesta alternatif. Ditambah dengan kehidupan keluarga Morty yang sudah tidak stabil, peristiwa-peristiwa ini menyebabkan Morty sangat tertekan di rumah dan sekolah. </item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas saat kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Berbasis di Neukolln, Berlin Toni mengelola bisnis harian berurusan dengan geng-geng Arab dan akhirnya ingin meninggalkan kehidupan lamanya untuk keluarganya, tetapi seperti yang diharapkan, itu tidak pernah sesederhana itu.</item>
+        <item>Lyra adalah seorang yatim piatu yang hidup di alam semesta paralel di mana sains, teologi, dan sihir terjalin. Lyras mencari teman yang diculik mengungkap plot menyeramkan yang melibatkan anak-anak yang dicuri, dan berubah menjadi pencarian untuk memahami fenomena misterius yang disebut Dust. Dia kemudian bergabung dalam perjalanannya oleh Will, seorang bocah lelaki yang memiliki pisau yang dapat memotong jendela antar dunia. Saat Lyra mengetahui kebenaran tentang orang tuanya dan takdirnya yang dinubuatkan, kedua orang muda itu terperangkap dalam perang melawan kekuatan selestial yang tersebar di banyak dunia.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+        <item>Setelah akselerator partikel menyebabkan badai hebat, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya metahuman yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.</item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajar mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi seluruh negeri dengan 67 Chevy Impala mereka, melawan setiap jenis ancaman gaib yang mereka temui di sepanjang jalan.</item>
+        <item>Spinoff ini ditetapkan di Los Angeles, mengikuti karakter baru saat mereka menghadapi awal akhir dunia, akan menjawab pertanyaan itu.</item>
+        <item>Mengikuti kehidupan pribadi dan profesional sekelompok dokter di Seattles Grey Sloan Memorial Hospital.</item>
+    </string-array>
+
+    <array name="data_photo_tv">
+        <item>@drawable/mandalorian</item>
+        <item>@drawable/rick</item>
+        <item>@drawable/arrow</item>
+        <item>@drawable/blocks</item>
+        <item>@drawable/hisdark</item>
+        <item>@drawable/simpson</item>
+        <item>@drawable/flash</item>
+        <item>@drawable/supernatural</item>
+        <item>@drawable/walkingdead</item>
+        <item>@drawable/anatomy</item>
+    </array>
+</resources>
